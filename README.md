@@ -2,4 +2,4 @@
 Older player shows: 
 Rock
 
-Younger player shows:
+Younger player shows: Stein
