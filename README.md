@@ -1,5 +1,5 @@
 # PR-RPS
 Older player shows: 
-Rock
+Scissor
 
 Younger player shows:
